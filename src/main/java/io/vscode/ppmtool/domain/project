@@ -1,0 +1,5 @@
+package io.vscode.ppmtool.domain;
+
+public class Project {
+    
+}
